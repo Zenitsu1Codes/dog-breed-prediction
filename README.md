@@ -48,7 +48,7 @@ This is a **multi-class image classification problem** involving complex visual 
 
 ## 📊 Dataset
 
-* Source: Kaggle Dog Breed Identification Dataset(https://www.kaggle.com/c/dog-breed-identification/data)
+* Source: [Kaggle Dog Breed Identification Dataset](https://www.kaggle.com/c/dog-breed-identification/data)
 * Contains:
 
   * Thousands of dog images
